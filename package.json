@@ -1,0 +1,16 @@
+{
+  "name": "pxyz",
+  "version": "1.0.0",
+  "description": "Utilizando GitHub",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ." 
+  },
+  "author": "Giovana e Mellody",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
